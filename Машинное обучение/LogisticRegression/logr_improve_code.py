@@ -10,7 +10,7 @@ def logistic_error(outputs, targets):
     for i, point in enumerate(inputs):
         error -= targets[i] * log(outputs[i], e) - (1 - targets[i]) * log(1 - outputs[i], e)
 
-    return error
+    return error / len(targets)
 
 
 class LogisticRegression:
