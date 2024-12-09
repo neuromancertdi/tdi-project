@@ -31,7 +31,7 @@ def logistic_error():
         error = -(target * log(output, e) - (1 - target) * log(1 - output, e))
         errors.append(error)
 
-    return sum(errors)
+    return sum(errors) / len(errors)
 
 
 lr = 0.1
