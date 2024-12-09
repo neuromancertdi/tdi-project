@@ -18,7 +18,7 @@ def weighted_z(point):
     return sum(z) + weights[-1]
 
 def logistic_function(z):
-    return 1 / (1 + e ** z)
+    return 1 / (1 + e ** (-z))
 
 def logistic_error():
     errors = []
@@ -27,6 +27,12 @@ def logistic_error():
         z = weighted_z(point)
         output = logistic_function(z)
         target = targets[i]
+
+        if output == 1:
+            output = 0.99999
+
+        if output == 0:
+            output = 0.00001
 
         error = -(target * log(output, e) - (1 - target) * log(1 - output, e))
         errors.append(error)
@@ -43,9 +49,9 @@ for epoch in range(100):
         target = targets[i]
 
         for j in range(len(weights) - 1):
-            weights[j] += lr * point[j] * (output - target) * (1 / len(inputs))
+            weights[j] -= lr * point[j] * (output - target) * (1 / len(inputs))
 
-        weights[-1] += lr * (output - target) * (1 / len(inputs))
+        weights[-1] -= lr * (output - target) * (1 / len(inputs))
 
     print(f"epoch: {epoch}, error: {logistic_error()}")
 
