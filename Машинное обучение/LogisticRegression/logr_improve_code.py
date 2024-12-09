@@ -2,12 +2,18 @@ from random import randint
 from math import e, log
 
 def logistic_function(z):
-    return 1 / (1 + e ** z)
+    return 1 / (1 + e ** (-z))
 
 def logistic_error(outputs, targets):
     error = 0
 
     for i, point in enumerate(inputs):
+        if outputs[i] == 1:
+            outputs[i] = 0.99999
+
+        if outputs[i] == 0:
+            outputs[i] = 0.00001
+        
         error -= targets[i] * log(outputs[i], e) - (1 - targets[i]) * log(1 - outputs[i], e)
 
     return error / len(targets)
@@ -30,9 +36,9 @@ class LogisticRegression:
 
     def train(self, inp, output, target, samples_num, lr):
         for j in range(len(self.weights) - 1):
-            self.weights[j] -= lr * (1 / samples_num) * (target - output) * inp[j]
+            self.weights[j] += lr * (1 / samples_num) * (target - output) * inp[j]
 
-        self.weights[-1] -= lr * (1 / samples_num) * (target - output)
+        self.weights[-1] += lr * (1 / samples_num) * (target - output)
 
 
     def forward_list(self, inputs):
