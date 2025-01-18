@@ -82,7 +82,7 @@ class Tensor:
         return Tensor(
             data=expand_item(item, dim, copies_num),
             creators=[self],
-            operation_name="expand"
+            operation_name="expand_" + str(dim)
         )
 
     def __repr__(self):
@@ -137,8 +137,9 @@ class Tensor:
             new_grad = grad.transpose()  # new Tensor
             self.creators[0].backward(new_grad)
 
-        elif self.operation_name == "expand":
-            new_grad = grad.sum()  # new Tensor
+        elif self.operation_name.startswith("expand"):
+            dim = int(self.operation_name.split('_')[1])
+            new_grad = grad.sum(dim)  # new Tensor
             self.creators[0].backward(new_grad)
 
         elif self.operation_name == "sigmoid":
