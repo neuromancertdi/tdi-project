@@ -46,7 +46,7 @@
 ### Глубокое обучение
 - Алгоритм обратного распространения ошибки [habr](https://habr.com/ru/articles/871648/)
 - Алгоритм автоматического дифференцирования. Autograd. [habr](https://habr.com/ru/articles/874592/)
-- Слой линейного преобразования и полносвязная нейросеть.Теория и реализация на самодельном autograd [habr](https://habr.com/ru/articles/885466/);[pdf](https://t.me/tdi_project_community_channel/24)
+- Слой линейного преобразования и полносвязная нейросеть.Теория и реализация на самодельном autograd [habr](https://habr.com/ru/articles/885466/);;;[pdf](https://t.me/tdi_project_community_channel/24)
 - Рекуррентный слой
 - Обучение с подкреплением, Q-обучение, Q-сеть
 ### Импульсные нейроны
@@ -56,7 +56,7 @@
 
 ## Основы понимания интеллекта
 ### Представления о естественном интеллекте
-- Модель эволюции жизни
+- Модель эволюции жизни [habr](https://habr.com/ru/articles/889302/);;;[pdf](https://t.me/tdi_project_community_channel/28)
 ### Идеи о системе ИИ
 - Система команд. Часть 1 [habr](https://habr.com/ru/articles/876716/)
 
