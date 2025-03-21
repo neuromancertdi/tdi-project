@@ -3,7 +3,7 @@
 
 - [Канал в телеграме](https://t.me/tdi_project_community_channel)
 - [Чат в телеграме](https://t.me/tdi_project_community_chat)
-- [Мой канал на Ютубе](https://www.youtube.com/@tdi_project)
+- [Канал на Ютубе](https://www.youtube.com/@tdi_project)
 
 Придумываю различные идеи о создании цифрового интеллекта. Публикую статьи и идеи о ИИ и цифровом интеллекте.
 
@@ -61,6 +61,7 @@
 - Система команд. Часть 1 [habr](https://habr.com/ru/articles/876716/)
 
 ## Теория цифрового интеллекта
+- Старый набросок теории [pdf](https://t.me/tdi_project_community_channel/30)
 ### Общая теория
 - Принципы программирования
 - Представления о ЦИ
