@@ -38,30 +38,30 @@
 ### Машинное обучение
 - Общие принципы и концепции [habr](https://habr.com/ru/articles/862704/)
 - Линейная регрессия [[habr](https://habr.com/ru/articles/863194/)][[youtube](https://youtu.be/3Xe2i3NnL5Y?si=AXLwh2q-6EOPJ3jX)]
-- Логистическая регрессия [habr](https://habr.com/ru/articles/864890/)
-- Метод К-ближайших соседей [habr](https://habr.com/ru/articles/866636/)
-- Метод К-средних [habr](https://habr.com/ru/articles/868542/)
-- Наивный байесовский классификатор [habr](https://habr.com/ru/articles/870718/)
+- Логистическая регрессия [[habr](https://habr.com/ru/articles/864890/)][[youtube](https://youtu.be/AkzZzd21BvM?si=UaKy4L0QtlrVZYlj)]
+- Метод К-ближайших соседей [[habr](https://habr.com/ru/articles/866636/)][[youtube](https://youtu.be/cg_fFEeS4XM?si=8Lhqul-UvsOV_uZ9)]
+- Метод К-средних [[habr](https://habr.com/ru/articles/868542/)][[youtube](https://youtu.be/YCRRgF_U3iY?si=J3qW2qmACN4xX2VG)]
+- Наивный байесовский классификатор [[habr](https://habr.com/ru/articles/870718/)][[youtube](https://youtu.be/0Dam7v_2hrs?si=KmUZ_jOgt8TFvS86)]
 - Обучение с подкреплением, Q-обучение, Q-таблица
 ### Глубокое обучение
-- Алгоритм обратного распространения ошибки [habr](https://habr.com/ru/articles/871648/)
+- Алгоритм обратного распространения ошибки [[habr](https://habr.com/ru/articles/871648/)]
 - Алгоритм автоматического дифференцирования. Autograd. [habr](https://habr.com/ru/articles/874592/)
-- Слой линейного преобразования и полносвязная нейросеть.Теория и реализация на самодельном autograd [habr](https://habr.com/ru/articles/885466/);;;[pdf](https://t.me/tdi_project_community_channel/24)
+- Слой линейного преобразования и полносвязная нейросеть.Теория и реализация на самодельном autograd [[habr](https://habr.com/ru/articles/885466/)][[pdf](https://t.me/tdi_project_community_channel/24)]
 - Рекуррентный слой
 - Обучение с подкреплением, Q-обучение, Q-сеть
 ### Импульсные нейроны
-- От обратного распространения ошибки к обучению Хебба [habr](https://habr.com/ru/articles/878810/)
+- От обратного распространения ошибки к обучению Хебба [[habr](https://habr.com/ru/articles/878810/)]
 - Модель LIF-нейрона
 - Синапсы и задержка передачи сигналов
 
 ## Основы понимания интеллекта
 ### Представления о естественном интеллекте
-- Модель эволюции жизни [habr](https://habr.com/ru/articles/889302/);;;[pdf](https://t.me/tdi_project_community_channel/28)
+- Модель эволюции жизни [[habr](https://habr.com/ru/articles/889302/)][[pdf](https://t.me/tdi_project_community_channel/28)]
 ### Идеи о системе ИИ
-- Система команд. Часть 1 [habr](https://habr.com/ru/articles/876716/)
+- Система команд. Часть 1 [[habr](https://habr.com/ru/articles/876716/)]
 
 ## Теория цифрового интеллекта
-- Старый набросок теории [pdf](https://t.me/tdi_project_community_channel/30)
+- Старый набросок теории [[pdf](https://t.me/tdi_project_community_channel/30)]
 ### Общая теория
 - Принципы программирования
 - Представления о ЦИ
