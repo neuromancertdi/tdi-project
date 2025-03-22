@@ -37,7 +37,7 @@
 - Аппроксимация, оптимизация, градиентный спуск
 ### Машинное обучение
 - Общие принципы и концепции [habr](https://habr.com/ru/articles/862704/)
-- Линейная регрессия [habr](https://habr.com/ru/articles/863194/)
+- Линейная регрессия [[habr](https://habr.com/ru/articles/863194/)][[youtube](https://youtu.be/3Xe2i3NnL5Y?si=AXLwh2q-6EOPJ3jX)]
 - Логистическая регрессия [habr](https://habr.com/ru/articles/864890/)
 - Метод К-ближайших соседей [habr](https://habr.com/ru/articles/866636/)
 - Метод К-средних [habr](https://habr.com/ru/articles/868542/)
