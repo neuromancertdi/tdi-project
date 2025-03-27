@@ -59,6 +59,7 @@
 - Модель эволюции жизни [[habr](https://habr.com/ru/articles/889302/)][[pdf](https://t.me/tdi_project_community_channel/28)]
 ### Идеи о системе ИИ
 - Система команд. Часть 1 [[habr](https://habr.com/ru/articles/876716/)]
+- Обладает ли БЯМ интеллектом? [[habr](https://habr.com/ru/articles/880228/)]
 
 ## Теория цифрового интеллекта
 - Старый набросок теории [[pdf](https://t.me/tdi_project_community_channel/30)]
