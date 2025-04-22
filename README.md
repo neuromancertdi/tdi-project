@@ -32,11 +32,11 @@
 
 ## Основы интеллектуальных программ
 ### Математика для ИИ
-- Производная и правила дифференцирования [habr](https://habr.com/ru/articles/873024/)
+- Производная и правила дифференцирования [[habr](https://habr.com/ru/articles/873024/)][[pdf](https://t.me/tdi_project_community_channel/61)]
 - Матричные операции
 - Аппроксимация, оптимизация, градиентный спуск
 ### Машинное обучение
-- Общие принципы и концепции [habr](https://habr.com/ru/articles/862704/)
+- Общие принципы и концепции [[habr](https://habr.com/ru/articles/862704/)][[pdf](https://t.me/tdi_project_community_channel/61)]
 - Линейная регрессия [[habr](https://habr.com/ru/articles/863194/)][[youtube](https://youtu.be/3Xe2i3NnL5Y?si=AXLwh2q-6EOPJ3jX)][[pdf](https://t.me/tdi_project_community_channel/45)]
 - Логистическая регрессия [[habr](https://habr.com/ru/articles/864890/)][[youtube](https://youtu.be/AkzZzd21BvM?si=UaKy4L0QtlrVZYlj)][[pdf](https://t.me/tdi_project_community_channel/45)]
 - Метод К-ближайших соседей [[habr](https://habr.com/ru/articles/866636/)][[youtube](https://youtu.be/cg_fFEeS4XM?si=8Lhqul-UvsOV_uZ9)][[pdf](https://t.me/tdi_project_community_channel/45)]
