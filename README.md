@@ -37,11 +37,11 @@
 - Аппроксимация, оптимизация, градиентный спуск
 ### Машинное обучение
 - Общие принципы и концепции [habr](https://habr.com/ru/articles/862704/)
-- Линейная регрессия [[habr](https://habr.com/ru/articles/863194/)][[youtube](https://youtu.be/3Xe2i3NnL5Y?si=AXLwh2q-6EOPJ3jX)]
-- Логистическая регрессия [[habr](https://habr.com/ru/articles/864890/)][[youtube](https://youtu.be/AkzZzd21BvM?si=UaKy4L0QtlrVZYlj)]
-- Метод К-ближайших соседей [[habr](https://habr.com/ru/articles/866636/)][[youtube](https://youtu.be/cg_fFEeS4XM?si=8Lhqul-UvsOV_uZ9)]
-- Метод К-средних [[habr](https://habr.com/ru/articles/868542/)][[youtube](https://youtu.be/YCRRgF_U3iY?si=J3qW2qmACN4xX2VG)]
-- Наивный байесовский классификатор [[habr](https://habr.com/ru/articles/870718/)][[youtube](https://youtu.be/0Dam7v_2hrs?si=KmUZ_jOgt8TFvS86)]
+- Линейная регрессия [[habr](https://habr.com/ru/articles/863194/)][[youtube](https://youtu.be/3Xe2i3NnL5Y?si=AXLwh2q-6EOPJ3jX)][[pdf](https://t.me/tdi_project_community_channel/45)]
+- Логистическая регрессия [[habr](https://habr.com/ru/articles/864890/)][[youtube](https://youtu.be/AkzZzd21BvM?si=UaKy4L0QtlrVZYlj)][[pdf](https://t.me/tdi_project_community_channel/45)]
+- Метод К-ближайших соседей [[habr](https://habr.com/ru/articles/866636/)][[youtube](https://youtu.be/cg_fFEeS4XM?si=8Lhqul-UvsOV_uZ9)][[pdf](https://t.me/tdi_project_community_channel/45)]
+- Метод К-средних [[habr](https://habr.com/ru/articles/868542/)][[youtube](https://youtu.be/YCRRgF_U3iY?si=J3qW2qmACN4xX2VG)][[pdf](https://t.me/tdi_project_community_channel/45)]
+- Наивный байесовский классификатор [[habr](https://habr.com/ru/articles/870718/)][[youtube](https://youtu.be/0Dam7v_2hrs?si=KmUZ_jOgt8TFvS86)][[pdf](https://t.me/tdi_project_community_channel/45)]
 - Обучение с подкреплением, Q-обучение, Q-таблица
 ### Глубокое обучение
 - Алгоритм обратного распространения ошибки [[habr](https://habr.com/ru/articles/871648/)]
@@ -63,6 +63,7 @@
 
 ## Теория цифрового интеллекта
 - Старый набросок теории [[pdf](https://t.me/tdi_project_community_channel/30)]
+- Простейшая функциональная система [[]()]
 ### Общая теория
 - Принципы программирования
 - Представления о ЦИ
