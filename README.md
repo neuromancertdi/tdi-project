@@ -44,13 +44,13 @@
 - Наивный байесовский классификатор [[habr](https://habr.com/ru/articles/870718/)][[youtube](https://youtu.be/0Dam7v_2hrs?si=KmUZ_jOgt8TFvS86)][[pdf](https://t.me/tdi_project_community_channel/45)]
 - Обучение с подкреплением, Q-обучение, Q-таблица
 ### Глубокое обучение
-- Алгоритм обратного распространения ошибки [[habr](https://habr.com/ru/articles/871648/)]
-- Алгоритм автоматического дифференцирования. Autograd. [habr](https://habr.com/ru/articles/874592/)
+- Алгоритм обратного распространения ошибки [[habr](https://habr.com/ru/articles/871648/)][[pdf](https://t.me/tdi_project_community_channel/56)]
+- Алгоритм автоматического дифференцирования. Autograd. [[habr](https://habr.com/ru/articles/874592/)][[pdf](https://t.me/tdi_project_community_channel/56)]
 - Слой линейного преобразования и полносвязная нейросеть.Теория и реализация на самодельном autograd [[habr](https://habr.com/ru/articles/885466/)][[pdf](https://t.me/tdi_project_community_channel/24)]
 - Рекуррентный слой
 - Обучение с подкреплением, Q-обучение, Q-сеть
 ### Импульсные нейроны
-- От обратного распространения ошибки к обучению Хебба [[habr](https://habr.com/ru/articles/878810/)]
+- От обратного распространения ошибки к обучению Хебба [[habr](https://habr.com/ru/articles/878810/)][[pdf](https://t.me/tdi_project_community_channel/56)]
 - Модель LIF-нейрона
 - Синапсы и задержка передачи сигналов
 
@@ -58,7 +58,7 @@
 ### Представления о естественном интеллекте
 - Модель эволюции жизни [[habr](https://habr.com/ru/articles/889302/)][[pdf](https://t.me/tdi_project_community_channel/28)]
 ### Идеи о системе ИИ
-- Система команд. Часть 1 [[habr](https://habr.com/ru/articles/876716/)]
+- Система команд. Часть 1 [[habr](https://habr.com/ru/articles/876716/)][[pdf](https://t.me/tdi_project_community_channel/56)]
 - Обладает ли БЯМ интеллектом? [[habr](https://habr.com/ru/articles/880228/)]
 
 ## Теория цифрового интеллекта
