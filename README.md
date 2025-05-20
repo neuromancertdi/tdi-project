@@ -48,7 +48,7 @@
 - Алгоритм обратного распространения ошибки [[habr](https://habr.com/ru/articles/871648/)][[pdf](https://t.me/tdi_project_community_channel/56)]
 - Алгоритм автоматического дифференцирования. Autograd. [[habr](https://habr.com/ru/articles/874592/)][[pdf](https://t.me/tdi_project_community_channel/56)]
 - Слой линейного преобразования и полносвязная нейросеть.Теория и реализация на самодельном autograd [[habr](https://habr.com/ru/articles/885466/)][[pdf](https://t.me/tdi_project_community_channel/24)]
-- Рекуррентный слой [[habr](https://habr.com/ru/articles/911136/)]
+- Рекуррентный слой [[habr](https://habr.com/ru/articles/911136/)][[pdf/code](https://t.me/tdi_project_community_channel/71)]
 ### Импульсные нейроны
 - От обратного распространения ошибки к обучению Хебба [[habr](https://habr.com/ru/articles/878810/)][[pdf](https://t.me/tdi_project_community_channel/56)]
 - Модель LIF-нейрона
