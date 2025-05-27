@@ -58,7 +58,7 @@
 ### Представления о естественном интеллекте
 - Модель эволюции жизни [[habr](https://habr.com/ru/articles/889302/)][[pdf](https://t.me/tdi_project_community_channel/28)]
 ### Идеи о системе ИИ
-- Как начать мыслить о цифровом интеллекте
+- Как начать мыслить о создании цифрового интеллекта [[habr](https://habr.com/ru/articles/913400/)][[youtube](https://youtu.be/rsCSHI0rgMg?si=Gh1Os4PByu_z1nFq)][[pdf](https://t.me/tdi_project_community_channel/74)]
 - Система команд. Часть 1 [[habr](https://habr.com/ru/articles/876716/)][[pdf](https://t.me/tdi_project_community_channel/56)]
 - Обладает ли БЯМ интеллектом? [[habr](https://habr.com/ru/articles/880228/)]
 
