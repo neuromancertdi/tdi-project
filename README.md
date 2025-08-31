@@ -66,6 +66,7 @@
 - От обратного распространения ошибки к обучению Хебба [[habr](https://habr.com/ru/articles/878810/)][[pdf](https://t.me/tdi_project_community_channel/56)]
 - Модель LIF-нейрона
 - Синапсы и задержка передачи сигналов
+- Алексей Редозубов: Клеточный автомат с памятью [[habr](https://habr.com/ru/articles/308370/)]
 
 ## Основы понимания интеллекта
 ### Представления о естественном интеллекте
@@ -82,7 +83,6 @@
 - Как начать мыслить о создании цифрового интеллекта [[habr](https://habr.com/ru/articles/913400/)][[youtube](https://youtu.be/rsCSHI0rgMg?si=Gh1Os4PByu_z1nFq)][[pdf](https://t.me/tdi_project_community_channel/74)]
 - Система команд. Часть 1 [[habr](https://habr.com/ru/articles/876716/)][[pdf](https://t.me/tdi_project_community_channel/56)]
 - Система команд. Основы динамической логики [[habr](https://habr.com/ru/articles/924112/)][[pdf](https://t.me/tdi_project_community_channel/78)]
-- Алексей Редозубов: Клеточный автомат с памятью [[habr](https://habr.com/ru/articles/308370/)]
 - Вадим Румянцев: Автомат состояний [[habr](https://habr.com/ru/articles/926394/)]
 
 ## Разное
@@ -92,6 +92,7 @@
 ### Общая теория
 - Старый набросок теории [[pdf](https://t.me/tdi_project_community_channel/30)]
 - Простейшая функциональная система [[habr](https://habr.com/ru/articles/903012/)][[pdf/code](https://t.me/tdi_project_community_channel/64)]
+- Общий алгоритм саморазвития системы [[habr](https://habr.com/p/942370/)][[pdf](https://t.me/tdi_project_community_channel/84)]
 ### ЦИ на основе глубокого обучения
 ### Импульсные нейронные сети (обратная инженерия нервной системы)
 ### Эволюционный подход к созданию ЦИ
